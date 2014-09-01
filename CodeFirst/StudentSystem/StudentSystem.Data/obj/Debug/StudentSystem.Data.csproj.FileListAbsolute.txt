@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Model.pdb

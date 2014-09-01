@@ -1,0 +1,14 @@
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.dll
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.pdb
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+C:\TelerikAcademy\Databases\Code First\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
