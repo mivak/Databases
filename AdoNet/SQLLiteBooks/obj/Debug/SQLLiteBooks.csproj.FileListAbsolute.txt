@@ -1,0 +1,16 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\SQLLiteBooks.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\x64\SQLite.Interop.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\x86\SQLite.Interop.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\SQLLiteBooks.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\SQLLiteBooks.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\System.Data.SQLite.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\System.Data.SQLite.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\System.Data.SQLite.Linq.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\bin\Debug\System.Data.SQLite.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\obj\Debug\SQLLiteBooks.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\obj\Debug\SQLLiteBooks.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\SQLLiteBooks\obj\Debug\SQLLiteBooks.pdb

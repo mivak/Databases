@@ -1,0 +1,15 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AdoNet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho\Desktop\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Misho\Desktop\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Misho\Desktop\AdoNet\AdoNet\obj\Debug\AdoNet.pdb

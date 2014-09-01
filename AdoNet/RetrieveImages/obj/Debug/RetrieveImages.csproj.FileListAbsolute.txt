@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\RetrieveImages.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\RetrieveImages.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\RetrieveImages.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\obj\Debug\RetrieveImages.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\obj\Debug\RetrieveImages.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\obj\Debug\RetrieveImages.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveImages\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\RetrieveTheNameAndDescriptionOfCategories.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\RetrieveTheNameAndDescriptionOfCategories.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\RetrieveTheNameAndDescriptionOfCategories.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\obj\Debug\RetrieveTheNameAndDescriptionOfCategories.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\obj\Debug\RetrieveTheNameAndDescriptionOfCategories.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveTheNameAndDescriptionOfCategories\obj\Debug\RetrieveTheNameAndDescriptionOfCategories.csprojResolveAssemblyReference.cache

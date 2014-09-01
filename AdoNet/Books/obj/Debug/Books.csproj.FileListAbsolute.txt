@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\Books.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\Books.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\Books.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\obj\Debug\Books.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\obj\Debug\Books.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\Books\obj\Debug\Books.pdb

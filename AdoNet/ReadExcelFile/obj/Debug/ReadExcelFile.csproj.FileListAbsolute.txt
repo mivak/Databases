@@ -1,0 +1,15 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\ReadExcelFile.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\ReadExcelFile.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\ReadExcelFile.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\obj\Debug\ReadExcelFile.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\obj\Debug\ReadExcelFile.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\obj\Debug\ReadExcelFile.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\ReadExcelFile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho\Desktop\AdoNet\ReadExcelFile\bin\Debug\ReadExcelFile.exe.config
+C:\Users\Misho\Desktop\AdoNet\ReadExcelFile\obj\Debug\ReadExcelFile.exe
+C:\Users\Misho\Desktop\AdoNet\ReadExcelFile\obj\Debug\ReadExcelFile.pdb

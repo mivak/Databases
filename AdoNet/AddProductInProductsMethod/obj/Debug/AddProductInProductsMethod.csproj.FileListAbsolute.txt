@@ -1,0 +1,15 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\AddProductInProductsMethod.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\AddProductInProductsMethod.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\AddProductInProductsMethod.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\obj\Debug\AddProductInProductsMethod.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\obj\Debug\AddProductInProductsMethod.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\obj\Debug\AddProductInProductsMethod.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\AddProductInProductsMethod\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho\Desktop\AdoNet\AddProductInProductsMethod\bin\Debug\AddProductInProductsMethod.exe.config
+C:\Users\Misho\Desktop\AdoNet\AddProductInProductsMethod\obj\Debug\AddProductInProductsMethod.exe
+C:\Users\Misho\Desktop\AdoNet\AddProductInProductsMethod\obj\Debug\AddProductInProductsMethod.pdb

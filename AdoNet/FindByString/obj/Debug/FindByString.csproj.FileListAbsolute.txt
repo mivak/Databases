@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\FindByString.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\FindByString.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\FindByString.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\obj\Debug\FindByString.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\obj\Debug\FindByString.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\obj\Debug\FindByString.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\FindByString\bin\Debug\EntityFramework.SqlServer.xml

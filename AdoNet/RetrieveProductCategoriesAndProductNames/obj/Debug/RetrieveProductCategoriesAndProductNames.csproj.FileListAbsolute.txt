@@ -1,0 +1,12 @@
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\RetrieveProductCategoriesAndProductNames.exe.config
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\RetrieveProductCategoriesAndProductNames.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\RetrieveProductCategoriesAndProductNames.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\obj\Debug\RetrieveProductCategoriesAndProductNames.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\obj\Debug\RetrieveProductCategoriesAndProductNames.exe
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\obj\Debug\RetrieveProductCategoriesAndProductNames.pdb
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\MySql.Data.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\ADO.NET\AdoNet\RetrieveProductCategoriesAndProductNames\bin\Debug\EntityFramework.SqlServer.xml
