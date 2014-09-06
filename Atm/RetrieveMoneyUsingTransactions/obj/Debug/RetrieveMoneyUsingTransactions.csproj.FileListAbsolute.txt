@@ -1,0 +1,14 @@
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\obj\Debug\RetrieveMoneyUsingTransactions.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\RetrieveMoneyUsingTransactions.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\obj\Debug\RetrieveMoneyUsingTransactions.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\Atm.Data.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\Atm.Model.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\Atm.Data.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\Atm.Model.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\RetrieveMoneyUsingTransactions.dll.config
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\bin\Debug\RetrieveMoneyUsingTransactions.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\RetrieveMoneyUsingTransactions\obj\Debug\RetrieveMoneyUsingTransactions.dll

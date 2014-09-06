@@ -1,0 +1,30 @@
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.exe.config
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.exe
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.pdb
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.Data.dll
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.Model.dll
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.Data.pdb
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\Atm.Model.pdb
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.exe
+C:\Users\Misho\Desktop\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.exe.config
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.exe
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.exe
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.ConsoleClient.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.Data.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.Model.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.Data.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\Atm.Model.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\obj\Debug\Atm.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\RetrieveMoneyUsingTransactions.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.ConsoleClient\bin\Debug\RetrieveMoneyUsingTransactions.dll

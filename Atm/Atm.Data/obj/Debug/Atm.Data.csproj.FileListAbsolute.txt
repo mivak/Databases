@@ -1,0 +1,24 @@
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\Atm.Data.dll.config
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\Atm.Data.dll
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\Atm.Data.pdb
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\EntityFramework.dll
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\EntityFramework.xml
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho\Desktop\Atm\Atm.Data\obj\Debug\Atm.Data.dll
+C:\Users\Misho\Desktop\Atm\Atm.Data\obj\Debug\Atm.Data.pdb
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\Atm.Model.dll
+C:\Users\Misho\Desktop\Atm\Atm.Data\bin\Debug\Atm.Model.pdb
+C:\Users\Misho\Desktop\Atm\Atm.Data\obj\Debug\Atm.Data.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\Atm.Data.dll.config
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\Atm.Data.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\Atm.Data.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\Atm.Model.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\EntityFramework.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\Atm.Model.pdb
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\EntityFramework.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\obj\Debug\Atm.Data.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\obj\Debug\Atm.Data.dll
+C:\TelerikAcademy\Databases\Transactions in ADO.NET and EF\Atm\Atm.Data\obj\Debug\Atm.Data.pdb
